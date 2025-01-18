@@ -39,7 +39,7 @@ npm install
 
 Start the Expo development server:
 
-expo start
+npm start
 
 Open the app:
 
